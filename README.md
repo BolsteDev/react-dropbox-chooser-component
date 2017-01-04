@@ -2,7 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/BolsteDev/react-dropbox-chooser.svg?style=svg)](https://circleci.com/gh/BolsteDev/react-dropbox-chooser) [![npm version](https://badge.fury.io/js/react-dropbox-chooser.svg)](https://badge.fury.io/js/react-dropbox-chooser)
 
-Description
+A simple dropbox chooser component for react.
 
 ## Installing
 
