@@ -1,4 +1,4 @@
-# react-dropbox-chooser
+# react-dropbox-chooser-component
 
 [![CircleCI](https://circleci.com/gh/BolsteDev/react-dropbox-chooser.svg?style=svg)](https://circleci.com/gh/BolsteDev/react-dropbox-chooser) [![npm version](https://badge.fury.io/js/react-dropbox-chooser.svg)](https://badge.fury.io/js/react-dropbox-chooser)
 
@@ -7,13 +7,13 @@ A simple dropbox chooser component for react.
 ## Installing
 
 ```
-yarn add react-dropbox-chooser
+yarn add react-dropbox-chooser-component
 ```
 
 ## Usage
 
 ```js
-import DropboxChooser from 'react-dropbox-chooser';
+import DropboxChooser from 'react-dropbox-chooser-component';
 
 // ...
   <Chooser

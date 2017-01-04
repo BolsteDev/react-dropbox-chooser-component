@@ -1,5 +1,5 @@
 {
-  "name": "react-dropbox-chooser",
+  "name": "react-dropbox-chooser-component",
   "version": "1.0.0",
   "description": "A simple dropbox chooser component for react",
   "main": "dist/index.js",
